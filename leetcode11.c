@@ -1,6 +1,6 @@
 
-class Solution {
-public:
+#include<stdio.h>
+int main{
     int reverseDegree(string s) {
         int sum = 0;
 
