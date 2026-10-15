@@ -1,6 +1,7 @@
 
 #include<stdio.h>
-int main{
+int main()
+{
     int reverseDegree(string s) {
         int sum = 0;
 
@@ -11,4 +12,5 @@ int main{
 
         return sum;
     }
+return 0;
 };
